@@ -1,0 +1,17 @@
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+#Translations
+*.mo
+
+
+# Mac crap
+.DS_Store
